@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitching-api.github.io/static/css/main.e6da37bb.css",
+    "main.js": "/fitching-api.github.io/static/js/main.e649a4d5.js",
+    "static/js/787.1212b3b7.chunk.js": "/fitching-api.github.io/static/js/787.1212b3b7.chunk.js",
+    "index.html": "/fitching-api.github.io/index.html",
+    "main.e6da37bb.css.map": "/fitching-api.github.io/static/css/main.e6da37bb.css.map",
+    "main.e649a4d5.js.map": "/fitching-api.github.io/static/js/main.e649a4d5.js.map",
+    "787.1212b3b7.chunk.js.map": "/fitching-api.github.io/static/js/787.1212b3b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6da37bb.css",
+    "static/js/main.e649a4d5.js"
+  ]
+}

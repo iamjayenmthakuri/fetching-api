@@ -1,0 +1,34 @@
+body{
+  background-color: aquamarine;
+  display:grid;
+  background-position: center;
+  position: absolute;
+}
+.title{
+  height: 100px;
+  width: 110px;
+  font-size: medium;
+  font-weight: bold;
+  font-style: italic;
+  background-position: center;
+  transform: translate(200px);
+}
+.container{
+  background-color: white;
+  height:max-content;
+  width:200px;
+  margin-bottom: auto;
+  margin-top: auto;
+}
+.input{
+  background-color: white;
+  height: max-content;
+  width: max-content;
+  transform: translate(200px);
+}
+.button{
+  background-color:crimson;
+  height: max-content;
+  width: max-content;
+  transform: translate(200px);
+}
